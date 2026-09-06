@@ -1,0 +1,16 @@
+{
+  "id": "com.myaddon.nuvio",
+  "version": "1.0.0",
+  "name": "My Nuvio Addon",
+  "description": "My custom Nuvio addon",
+  "resources": [
+    "stream"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
+}
